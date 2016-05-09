@@ -113,3 +113,5 @@ Usage: tclip [options] [-s] <source_file> [--] [args...]
 ###contact
 如果你对扩展水印有更多疑问请+qq群 233415606 or [website http://xingqiba.sinaapp.com](http://xingqiba.sinaapp.com)
 
+###Ubuntu安装openCV过程
+http://askubuntu.com/questions/537268/installing-opencv-in-ubuntu-14-04
